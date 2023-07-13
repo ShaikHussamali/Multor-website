@@ -1,0 +1,18 @@
+.main{
+    display: flex;
+}
+
+.left, .right{
+    flex-basis: 50%;
+    font-size: 14;
+    font-family: Barlow 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    padding: 100px
+}
+
+/* button{
+    border: transparent;
+    text-emphasis-color: blue;
+    text-size-adjust: 700;
+    border-radius: 4px;
+} */
